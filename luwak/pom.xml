@@ -11,7 +11,11 @@
     <artifactId>luwak</artifactId>
 
     <dependencies>
-
+        <dependency>
+            <groupId>org.apache.lucene</groupId>
+            <artifactId>lucene-analyzers-kuromoji</artifactId>
+            <version>7.7.2</version>
+        </dependency>
         <dependency>
             <groupId>${lucene.group}</groupId>
             <artifactId>lucene-core</artifactId>
