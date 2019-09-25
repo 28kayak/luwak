@@ -1,0 +1,5 @@
+character, documents
+キッド, konan_r84.txt
+キッド, konan_724.txt
+安室, konan_953.txt
+グリーン・エンペラー, konan_r84.txt
