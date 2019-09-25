@@ -32,7 +32,7 @@ public class JpLuwakDemo {
     public static final Logger logger = LoggerFactory.getLogger(LuwakDemo.class);
 
     public static void main(String... args) throws Exception {
-        new JpLuwakDemo("src/test/resources/demoqueries", "src/test/resources/gutenberg");
+        new JpLuwakDemo("luwak/src/test/resources/jp_demo_queries.txt", "luwak/src/test/resources/jp_corpus/conan");
     }
 
     public JpLuwakDemo(String queriesFile, String inputDirectory) throws Exception {
